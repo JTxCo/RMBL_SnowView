@@ -169,3 +169,5 @@ RMBL_SnowView.code-workspace
 data/2019-20
 data/image_processing.ipynb
 data/tif_files.csv
+TinyImages/Imagery
+TinyImages/Snow_Mask
