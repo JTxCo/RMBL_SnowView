@@ -33,7 +33,7 @@ def resample(source, target):
             src_crs=source.crs,
             dst_transform=target.transform,
             dst_crs=target.crs,
-            resampling=Resampling.cubic_spline       
+            resampling=Resampling.nearest,
         )
     return resampled_data
 
