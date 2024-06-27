@@ -182,3 +182,5 @@ data/TinyImages/Imagery/DeerCreekTrail/DeerCreekTrail_2019_05_11_snow.tif.aux.xm
 
 *.pkl
 *.joblib
+
+gabor_filters/

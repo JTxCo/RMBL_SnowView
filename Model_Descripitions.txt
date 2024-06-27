@@ -1,0 +1,3 @@
+640_RF_model_1.joblib - RF model trained on all 640x___ images with 50 trees and default settings
+640_SVM_model_0.pkl - SVM model trained on first 640x___ images with rbf and default settings
+640_SVM_model_1.pkl - SVM model trained on all 640x___ images with rbf and default settings
